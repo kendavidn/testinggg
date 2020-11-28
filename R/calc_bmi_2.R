@@ -15,7 +15,7 @@
 #'
 #'
 #'
-calc_bmi <- function(w,h){
+calc_bmi_2 <- function(w,h){
 
   bmi <- w/(h^2)
   bmi_rounded <- round(bmi, 2)
