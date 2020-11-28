@@ -11,7 +11,7 @@
 #'
 #' @examples
 #'
-#' calc_bmi(w = 80, h = 1.4)
+#' calc_bm_2i(w = 80, h = 1.4)
 #'
 #'
 #'
